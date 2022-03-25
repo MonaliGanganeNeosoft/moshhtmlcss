@@ -4,3 +4,12 @@ highlight matching tag
 todo highlight
 
 https://necolas.github.io/normalize.css/
+
+https://fonts.google.com/
+
+<h1>heading 1</h1>
+    <h2>heading 2</h2>
+    <h3>heading 3</h3>
+
+    h${heading $}*3
+    
